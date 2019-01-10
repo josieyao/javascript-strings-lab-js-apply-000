@@ -9,8 +9,6 @@ var topic = "space";
 var conversation = `Let\'s talk about ${topic}.`;
 
 
-
-
 /*it('defines `greeting`', function() {
   expect(greeting).toEqual("Hello, everybody!")
 })
